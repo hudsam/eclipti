@@ -1,0 +1,33 @@
+{
+    "data": {
+        "application": {
+            "name": "eclipti",
+            "alias": "e-learning client side scripting",
+            "description": "interactive learning media that allows students to create static website pages using only their browser",
+            "description 2": "- and receive assessments from teachers after completing the challenges.",
+            "status": "not deployed"
+        },
+        "author": {
+            "fullname": "khusnul huda",
+            "nickname": "hudsam",
+            "mayor": "information system",
+            "studi program": "information technology education",
+            "contact": {
+                "email": "halo@hudsam.xyz",
+                "whatsapp": null
+            },
+            "role": "student",
+            "school": {
+                "category": "campus",
+                "university": "brawijaya university",
+                "faculity": "computer science",
+                "website": "filkom.ub.ac.id"
+            }
+        }
+    },
+    "message": {
+        "title": "24/7 - feel free for discuss",
+        "body": "can you contact me via email.",
+        "footer": "hatur nuwun."
+    }
+}
